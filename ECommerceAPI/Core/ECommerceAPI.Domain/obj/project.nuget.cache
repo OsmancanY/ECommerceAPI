@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYqo4I5vbwIzaSwDIGRoHk4JiYedVCc1Zr2pcCkgpO12hWYmQt7sIWsyYbo3noRXkCdaO3+FMn6919fWs3Z3cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osica\\Source\\Repos\\OsmancanY\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Domain\\ECommerceAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osica\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\osica\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\osica\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\osica\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\osica\\.nuget\\packages\\nunitlite\\3.13.3\\nunitlite.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

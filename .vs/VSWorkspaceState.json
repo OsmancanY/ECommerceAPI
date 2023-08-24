@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerceAPI",
+    "\\ECommerceAPI\\Core",
+    "\\ECommerceAPI\\Core\\ECommerceAPI.Application",
+    "\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Features\\Qeries\\GetAllProduct",
+    "\\ECommerceAPI\\Presentation",
+    "\\ECommerceAPI\\Presentation\\ECommerceAPI.API",
+    "\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
